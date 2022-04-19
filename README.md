@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njubelt
-- 👀 I’m interested in learning front- and back-end programming, and mastering Javascript
-- 🌱 I’m currently learning fundamentals of CSS and HTML
+- 👀 I’m interested in learning full-stack programming and mastering Javascript
+- 🌱 I’m currently learning fundamentals of CSS, HTML, and Javascript
 
 <!---
 njubelt/njubelt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
