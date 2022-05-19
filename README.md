@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @njubelt
-- 👀 I’m interested in learning full-stack programming and mastering Javascript
+- 👀 I’m interested in mastering Javascript
 - 🌱 I’m currently learning fundamentals of CSS, HTML, and Javascript
 
 <!---
